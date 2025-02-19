@@ -1,0 +1,7 @@
+C:\Users\Etec\source\repos\Lampada\obj\Debug\Lampada.csproj.AssemblyReference.cache
+C:\Users\Etec\source\repos\Lampada\obj\Debug\Lampada.csproj.CoreCompileInputs.cache
+C:\Users\Etec\source\repos\Lampada\bin\Debug\Lampada.exe.config
+C:\Users\Etec\source\repos\Lampada\bin\Debug\Lampada.exe
+C:\Users\Etec\source\repos\Lampada\bin\Debug\Lampada.pdb
+C:\Users\Etec\source\repos\Lampada\obj\Debug\Lampada.exe
+C:\Users\Etec\source\repos\Lampada\obj\Debug\Lampada.pdb

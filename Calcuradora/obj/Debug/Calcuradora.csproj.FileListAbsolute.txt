@@ -1,0 +1,7 @@
+C:\Users\Etec\source\repos\Calcuradora\obj\Debug\Calcuradora.csproj.AssemblyReference.cache
+C:\Users\Etec\source\repos\Calcuradora\obj\Debug\Calcuradora.csproj.CoreCompileInputs.cache
+C:\Users\Etec\source\repos\Calcuradora\bin\Debug\Calcuradora.exe.config
+C:\Users\Etec\source\repos\Calcuradora\bin\Debug\Calcuradora.exe
+C:\Users\Etec\source\repos\Calcuradora\bin\Debug\Calcuradora.pdb
+C:\Users\Etec\source\repos\Calcuradora\obj\Debug\Calcuradora.exe
+C:\Users\Etec\source\repos\Calcuradora\obj\Debug\Calcuradora.pdb
